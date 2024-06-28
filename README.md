@@ -5,7 +5,8 @@
 1. Clone o repositório
 2. Instale as dependências via Composer
 3. Configure o arquivo `.env` com suas credenciais de banco de dados
-4. Execute as migrações
+4. Crie o database com o nome que você colocou no env
+5. Execute as migrações
 
 ```bash
 git clone <repo-url>
